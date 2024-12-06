@@ -2,5 +2,9 @@
 name = "letscoders"
 version = "0.1.0"
 edition = "2021"
-
+license = "MIT"
+description = "A simple leetcode solution project,which is using cargo to make rust-analyzer happy."
+homepage = "https://github.com/youngifif/letscoders"
+repository = "https://github.com/youngifif/letscoders"
+readme = "README.md"
 [dependencies]
